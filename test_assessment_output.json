@@ -1,0 +1,70 @@
+{
+  "id": "test-assessment-written-addition",
+  "questions": [
+    {
+      "id": "q1-addition",
+      "question": "What is 23 + 19?",
+      "options": ["42", "41", "43", "40"],
+      "correctAnswer": 0,
+      "explanation": "When adding 23 + 19, we add the ones place (3 + 9 = 12, write 2 carry 1) then add the tens place (2 + 1 + 1 = 4). So the answer is 42.",
+      "stepByStepSolution": [
+        "Write the numbers in column form with 23 on top and 19 below",
+        "Start with the ones place: 3 + 9 = 12",
+        "Write down 2 in the ones place and carry the 1",
+        "Add the tens place: 2 + 1 + 1 (carried) = 4",
+        "Write down 4 in the tens place",
+        "The final answer is 42"
+      ],
+      "visualAid": {
+        "description": "A colorful illustration showing the column addition method with 23 + 19. Show two rows of numbers with clear place value columns (tens and ones), arrows showing the carrying process, and visual counting aids like blocks or dots representing the numbers.",
+        "altText": "Visual representation of column addition showing 23 + 19 with place value columns and carrying illustrated"
+      },
+      "difficulty": "beginner",
+      "topic": "written addition"
+    },
+    {
+      "id": "q2-addition", 
+      "question": "Sarah has 15 stickers and her friend gives her 27 more stickers. How many stickers does Sarah have now?",
+      "options": ["32", "42", "52", "12"],
+      "correctAnswer": 1,
+      "explanation": "This is an addition word problem. Sarah starts with 15 stickers and gets 27 more, so we need to add: 15 + 27 = 42 stickers total.",
+      "stepByStepSolution": [
+        "Identify what we know: Sarah has 15 stickers, gets 27 more",
+        "Identify what we need to find: total number of stickers",
+        "Write the addition: 15 + 27",
+        "Add the ones place: 5 + 7 = 12 (write 2, carry 1)",
+        "Add the tens place: 1 + 2 + 1 (carried) = 4",
+        "Sarah now has 42 stickers"
+      ],
+      "visualAid": {
+        "description": "A friendly cartoon illustration showing Sarah with 15 colorful stickers in one group and 27 stickers in another group, with arrows showing them coming together to make 42 total stickers. Include visual counting elements like grouped stickers or number blocks.",
+        "altText": "Cartoon showing Sarah with two groups of stickers being combined to show addition"
+      },
+      "difficulty": "beginner", 
+      "topic": "written addition"
+    },
+    {
+      "id": "q3-addition",
+      "question": "Use the column method to work out 46 + 38:",
+      "options": ["84", "74", "64", "94"],
+      "correctAnswer": 0,
+      "explanation": "Using column addition: 6 + 8 = 14 (write 4, carry 1), then 4 + 3 + 1 = 8. The answer is 84.",
+      "stepByStepSolution": [
+        "Write 46 above 38 in columns, lining up the place values",
+        "Start with the ones column: 6 + 8 = 14",
+        "Write 4 in the ones place of the answer",
+        "Carry the 1 to the tens column",
+        "Add the tens column: 4 + 3 + 1 (carried) = 8", 
+        "Write 8 in the tens place",
+        "The final answer is 84"
+      ],
+      "visualAid": {
+        "description": "A clear educational diagram showing the column addition method for 46 + 38. Show the numbers arranged vertically with clear place value labels (tens, ones), arrows indicating the carrying process, and base-10 blocks or visual counters to represent the numbers being added.",
+        "altText": "Educational diagram of column addition showing 46 + 38 with place values and carrying illustrated"
+      },
+      "difficulty": "beginner",
+      "topic": "written addition"
+    }
+  ],
+  "totalQuestions": 3
+}
